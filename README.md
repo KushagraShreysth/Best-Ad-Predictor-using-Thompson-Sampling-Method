@@ -1,6 +1,6 @@
 # Best-Ad-Predictor-using-Thompson-Sampling-Method
 _______________________________________________________________________________________________
-Created a model that predicts which AD is creating more impact on the user among many ADs that is shown to them using Thompson Sampling Method
+Created a model that predicts which AD is creating more impact on the users among many ADs that is shown to them using Thompson Sampling Method
 
 ## REQUIREMENTS
 
